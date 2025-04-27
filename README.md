@@ -36,6 +36,3 @@
 
 ---
 
-### 🔧 GitHub Stats
-
-![Harel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harelgam&show_icons=true&theme=default&hide=stars)
