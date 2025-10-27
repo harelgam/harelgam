@@ -2,18 +2,26 @@
 
 🎓 Industrial Engineering & Management student  **Ben-Gurion University**  
 🔬 M.Sc. in Data Science (Meitar Excellence Program)  
-📈 Passionate about **Machine Learning**, **Reinforcement Learning**, and **Optimization**  
+📈 Passionate about **Machine Learning**, **Deep Learning**, **Reinforcement Learning**, and **Optimization**  
 
 ---
 
 ### 🧪 Projects
-- **📊 Traffic Congestion Perimeter Detection (M.Sc. Thesis)**  
-  Developed a reinforcement learning model to identify urban congestion perimeters using real-time data and MDPs.
+- ** Perimeter Identification of Traffic Congestion in Urban Networks Using image processing, RL and DL. (M.Sc. Thesis)**  
+  •	Designed Agent-based system detecting congestion via heatmap generation from simulation data. 
+  •	Applied Graph Convolutional Networks (GCNs) capturing spatial dependencies in traffic networks.
+  •	Trained the agent with Proximal Policy Optimization (PPO) using PyTorch and Gymnasium. 
+  •	Leveraged Model parallelism across NVIDIA GPUs accelerating training.
+  •	Funded by the Ministry of Transport.
 
-- **⚙️ Process Analysis System for ARAN**  
-  Designed a process improvement system with database structure, UML modeling, and a working **C# prototype**.
 
-- **🧠 Custom ReLU in ResNet**  
+- ** RAG Chatbot **  
+  •	Built a customer-facing RAG for automated Q&A from company documents.
+  •	Automated document ingestion, chunking with unique IDs, and vector storage in ChromaDB.
+  •	Implemented multi-query retrieval, relevance filtering, and fallback logic with LangChain.
+
+
+- ** Custom ReLU in ResNet**  
   Researched performance effects of fixed α values in Custom ReLU layers on ResNet-18 using CIFAR-10/100 datasets.
 
 ---
