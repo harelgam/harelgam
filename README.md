@@ -7,21 +7,21 @@
 ---
 
 ### 🧪 Projects
-- ** Perimeter Identification of Traffic Congestion in Urban Networks Using image processing, RL and DL. (M.Sc. Thesis)**  
+-  **Perimeter Identification of Traffic Congestion in Urban Networks Using image processing, RL and DL. (M.Sc. Thesis)**
   •	Designed Agent-based system detecting congestion via heatmap generation from simulation data. 
-  •	Applied Graph Convolutional Networks (GCNs) capturing spatial dependencies in traffic networks.
-  •	Trained the agent with Proximal Policy Optimization (PPO) using PyTorch and Gymnasium. 
+  •	Applied Graph Convolutional Networks (**GCNs**) capturing spatial dependencies in traffic networks.
+  •	Trained the agent with Proximal Policy Optimization (**PPO**) using PyTorch and Gymnasium. 
   •	Leveraged Model parallelism across NVIDIA GPUs accelerating training.
   •	Funded by the Ministry of Transport.
 
 
-- ** RAG Chatbot **  
+-  **RAG** **Chatbot**
   •	Built a customer-facing RAG for automated Q&A from company documents.
   •	Automated document ingestion, chunking with unique IDs, and vector storage in ChromaDB.
   •	Implemented multi-query retrieval, relevance filtering, and fallback logic with LangChain.
 
 
-- ** Custom ReLU in ResNet**  
+-  **Custom ReLU in ResNet**  
   Researched performance effects of fixed α values in Custom ReLU layers on ResNet-18 using CIFAR-10/100 datasets.
 
 ---
