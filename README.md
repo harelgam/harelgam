@@ -7,7 +7,7 @@
 ---
 
 ### 🧪 Projects
--  **Perimeter Identification of Traffic Congestion in Urban Networks Using image processing, RL and DL. (M.Sc. Thesis)**
+ **Perimeter Identification of Traffic Congestion in Urban Networks Using image processing, RL and DL. (M.Sc. Thesis)**
   
   •	Designed Agent-based system detecting congestion via heatmap generation from simulation data. 
   
@@ -20,7 +20,7 @@
   •	Funded by the Ministry of Transport.
 
 
--  **RAG** **Chatbot**
+  **RAG** **Chatbot**
   
   •	Built a customer-facing RAG for automated Q&A from company documents.
   
@@ -29,7 +29,7 @@
   •	Implemented multi-query retrieval, relevance filtering, and fallback logic with LangChain.
 
 
--  **Custom ReLU in ResNet**  
+  **Custom ReLU in ResNet**  
   Researched performance effects of fixed α values in Custom ReLU layers on ResNet-18 using CIFAR-10/100 datasets.
 
 ---
