@@ -28,7 +28,7 @@
   
   •	Implemented multi-query retrieval, relevance filtering, and fallback logic with LangChain.
 
-**  Dynamic AlphaSteer: Adaptive Safety Steering for LLMs**
+  **Dynamic AlphaSteer: Adaptive Safety Steering for LLMs**  
 
 • Extended the AlphaSteer activation steering framework by introducing a Dynamic Gating Network that adaptively controls steering strength based on prompt semantics.
 
