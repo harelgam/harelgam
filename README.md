@@ -30,11 +30,11 @@
 
   **Dynamic AlphaSteer: Adaptive Safety Steering for LLMs**  
 
-• Extended the AlphaSteer activation steering framework by introducing a Dynamic Gating Network that adaptively controls steering strength based on prompt semantics.
-
-• Designed lightweight MLP-based controllers attached to internal transformer layers to predict the optimal intervention coefficient (λ) during inference.
-
-• Resolved the safety–utility trade-off, achieving robust defense against jailbreak attacks (AIM, GCG) while preserving reasoning performance on GSM8K and Math benchmarks.
+  • Extended the AlphaSteer activation steering framework by introducing a Dynamic Gating Network that adaptively controls steering strength based on prompt semantics.
+  
+  • Designed lightweight MLP-based controllers attached to internal transformer layers to predict the optimal intervention coefficient (λ) during inference.
+  
+  • Resolved the safety–utility trade-off, achieving robust defense against jailbreak attacks (AIM, GCG) while preserving reasoning performance on GSM8K and Math benchmarks.
 
 
   **Custom ReLU in ResNet**  
