@@ -28,6 +28,14 @@
   
   •	Implemented multi-query retrieval, relevance filtering, and fallback logic with LangChain.
 
+**  Dynamic AlphaSteer: Adaptive Safety Steering for LLMs**
+
+• Extended the AlphaSteer activation steering framework by introducing a Dynamic Gating Network that adaptively controls steering strength based on prompt semantics.
+
+• Designed lightweight MLP-based controllers attached to internal transformer layers to predict the optimal intervention coefficient (λ) during inference.
+
+• Resolved the safety–utility trade-off, achieving robust defense against jailbreak attacks (AIM, GCG) while preserving reasoning performance on GSM8K and Math benchmarks.
+
 
   **Custom ReLU in ResNet**  
   Researched performance effects of fixed α values in Custom ReLU layers on ResNet-18 using CIFAR-10/100 datasets.
