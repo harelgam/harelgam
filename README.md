@@ -1,7 +1,6 @@
 ### Hi there, I'm Harel Gil 👋
 
-🎓 Industrial Engineering & Management student  **Ben-Gurion University**  
-🔬 M.Sc. in Data Science (Meitar Excellence Program)  
+🔬 M.Sc. in Data Science from **Ben-Gurion University**  (Meitar Excellence Program)  
 📈 Passionate about **Machine Learning**, **Deep Learning**, **Reinforcement Learning**, and **Optimization**  
 
 ---
